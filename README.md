@@ -1,4 +1,4 @@
-git clone [https://github.com/your-username/spycat-missions.git](https://github.com/Andrewakiv/spycats.git)
+git clone https://github.com/Andrewakiv/spycats.git
 
 cd spycats
 
